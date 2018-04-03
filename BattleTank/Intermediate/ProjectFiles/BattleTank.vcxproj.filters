@@ -67,12 +67,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\BattleTank\Public\TankAIController.h">
-      <Filter>Source\BattleTank\Public</Filter>
+      <Filter>Source\BattleTank</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\BattleTank\Private\TankAIController.cpp">
-      <Filter>Source\BattleTank\Private</Filter>
+      <Filter>Source\BattleTank</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
