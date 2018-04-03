@@ -25,6 +25,7 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
 /I "C:\Users\jakep\Documents\Unreal Projects\Section_04\BattleTank\Source"
+/I "C:\Users\jakep\Documents\Unreal Projects\Section_04\BattleTank\Source\BattleTank\Public"
 /I "C:\Users\jakep\Documents\Unreal Projects\Section_04\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank"
 /I "C:\Users\jakep\Documents\Unreal Projects\Section_04\BattleTank\Source\BattleTank"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
