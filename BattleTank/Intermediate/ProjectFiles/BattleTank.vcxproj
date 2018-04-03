@@ -597,11 +597,16 @@
 		<None Include="..\..\Config\DefaultEditor.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<None Include="..\..\Config\DefaultInput.ini" />
 		<None Include="..\..\Source\BattleTank\BattleTank.Build.cs" />
 		<ClCompile Include="..\..\Source\BattleTank\BattleTank.cpp" />
 		<ClInclude Include="..\..\Source\BattleTank\BattleTank.h" />
 		<ClCompile Include="..\..\Source\BattleTank\BattleTankGameModeBase.cpp" />
 		<ClInclude Include="..\..\Source\BattleTank\BattleTankGameModeBase.h" />
+		<ClCompile Include="..\..\Source\BattleTank\Tank.cpp" />
+		<ClInclude Include="..\..\Source\BattleTank\Tank.h" />
+		<ClCompile Include="..\..\Source\BattleTank\TankPlayerController.cpp" />
+		<ClInclude Include="..\..\Source\BattleTank\TankPlayerController.h" />
 	</ItemGroup>
 	<PropertyGroup>
 		<SourcePath></SourcePath>
