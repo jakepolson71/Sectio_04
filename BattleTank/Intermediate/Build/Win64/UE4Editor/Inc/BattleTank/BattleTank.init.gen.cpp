@@ -20,7 +20,7 @@ void EmptyLinkFunctionForGeneratedCodeBattleTank_init() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), nullptr, FName(TEXT("/Script/BattleTank")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xA3678FD3;
+			Guid.A = 0x84101DA5;
 			Guid.B = 0x16397A34;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
